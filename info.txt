@@ -1,0 +1,8 @@
+Como dar run do bash
+
+1. Colocar o ficheiro executavel
+    sudo chmod +x <filename>.sh
+    ./<filename>.sh <filename>
+
+2. Executar o ficheiro 
+    bash ./<filename>.sh <filename>
