@@ -9,3 +9,6 @@ if [ -z "$1" ]; then
     echo "Usage: $0 <filename>"
     exit 1
 fi
+
+# Case parameter is not empty, create a file with the given name
+touch "$1"
