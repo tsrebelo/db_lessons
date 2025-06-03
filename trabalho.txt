@@ -1,0 +1,17 @@
+1 - Saber levantar uma DB em contexto de micro-serviços
+    - Saber fazer pull de uma imagem (DB)
+    - Saber levantar o container
+    - saber parar / levantar o container
+
+2 - Fazer 2 scripts
+    - Backup de uma base de dados que está no container
+    - Restore de uma base de dados
+
+3 - Definir a linha do cronTab para agendar o serviço de Backup num intervalo de tempo próprio
+
+
+
+
+/  -> root 
+~  -> home
+./ -> aqui

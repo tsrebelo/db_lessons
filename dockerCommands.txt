@@ -1,0 +1,10 @@
+https://docs.docker.com/reference/
+
+docker ps //mostra máquinas em execução
+
+docker ps -a //mostra todas máquinas em execução e sem tar em execução
+
+docker exec //um comando que permite executar comandos dentro do docker
+
+docker exec --help //ajuda
+
