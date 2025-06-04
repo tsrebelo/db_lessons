@@ -2,6 +2,6 @@ limpar ecra
 
 introduzir o primeiro nome do aluno
 o utilizador ao colocar nao vai ver oq escreve
-
+// read -s -p "Introduza um nome: " NOME_ALUNO
 
 so sai do jogo quando adivinhar o nome
