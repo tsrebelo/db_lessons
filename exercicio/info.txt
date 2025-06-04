@@ -1,0 +1,7 @@
+limpar ecra
+
+introduzir o primeiro nome do aluno
+o utilizador ao colocar nao vai ver oq escreve
+
+
+so sai do jogo quando adivinhar o nome
