@@ -6,3 +6,10 @@ Como dar run do bash
 
 2. Executar o ficheiro 
     bash ./<filename>.sh <filename>
+
+
+
+
+/  -> root 
+~  -> home
+./ -> aqui

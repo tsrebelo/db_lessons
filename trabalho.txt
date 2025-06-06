@@ -8,10 +8,3 @@
     - Restore de uma base de dados
 
 3 - Definir a linha do cronTab para agendar o serviço de Backup num intervalo de tempo próprio
-
-
-
-
-/  -> root 
-~  -> home
-./ -> aqui
