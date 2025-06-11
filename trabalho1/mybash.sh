@@ -10,7 +10,6 @@ MYSQL_DB = "$2"
 FICHEIRO_DESTINO = "$3"
 
 read -p "Nome do utilizador MySQL: " UTILIZADOR
-echo
 read -s -p "Palavra-passe: " PASSWORD
 echo
 
