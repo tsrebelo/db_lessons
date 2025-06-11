@@ -8,4 +8,7 @@ fi
 nome_db="$1"
 nome_tabela="$2"
 
-sqlFile = "script.sql"
+sqlFile = "criarDB_TB.sql"
+
+echo "CREATE DATABASE IF NOT EXISTS '$nome_db';" > $sqlFile
+echo "CREATE TABLE '$nome_tabela';" >> $sqlFile
