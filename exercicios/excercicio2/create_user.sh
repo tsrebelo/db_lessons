@@ -5,10 +5,10 @@ if [ "$# -ne 4"]; then
     exit 1
 fi
 
-userRoot = "$1"
-passRoot = "$2"
-userNew = "$3"
-passNew = "$4"
+userRoot="$1"
+passRoot="$2"
+userNew="$3"
+passNew="$4"
 
 sqlFile = "create_user.sql"
 echo "CREATE USER IF NOT EXISTS '$userNew'@'localhost' INDENTIFIED BY '$passNew';" > $sqlFile

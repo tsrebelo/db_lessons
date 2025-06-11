@@ -1,0 +1,7 @@
+script <nome_db> <nome_tabela>
+\
+ > vai criar um script.sql
+   criarDB_TB.sql
+
+crie a base de dados e dentro dela a tabela 
+    - comandos mysql
